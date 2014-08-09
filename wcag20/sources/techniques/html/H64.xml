@@ -37,7 +37,7 @@
                 <el>frame</el> to describe the frames containing the navigation bar and the
                 document.</p>
          </description>
-         <code role="html401"><![CDATA[<html xmlns="http://www.w3.org/1999/xhtml">
+         <code role="html401"><![CDATA[<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
   <head>
     <title>A simple frameset document</title>
   </head>

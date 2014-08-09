@@ -99,7 +99,7 @@
             <p>Note that in HTML 4.01 and XHTML 1.x, heading elements only mark the beginning of
               	sections. Because there is no markup to associate a heading element with the section content explicitly, users will assume that the heading applies to all following content until the next heading element is encountered.</p>
          </description>
-         <code role="html401"><![CDATA[ <html xmlns="http://www.w3.org/1999/xhtml">
+         <code role="html401"><![CDATA[ <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
   <head>
     <title>Cooking techniques</title>  
   </head>   

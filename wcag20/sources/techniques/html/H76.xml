@@ -26,7 +26,7 @@
    </description>
    <examples>
       <eg-group>
-         <code><![CDATA[ <html xmlns="http://www.w3.org/1999/xhtml">    
+         <code><![CDATA[ <html xmlns="http://www.w3.org/1999/xhtml" lang="en">    
   <head>      
     <title>The Tudors</title>      
     <meta http-equiv="refresh" content="0;URL='http://thetudors.example.com/'" />    
